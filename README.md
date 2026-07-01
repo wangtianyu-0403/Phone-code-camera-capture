@@ -1,3 +1,5 @@
+# Phone Code Camera Capture
+
 手机与电脑局域网拍照采集工具。电脑端和手机端可以同步修改编号，手机拍照后自动上传到电脑，并按当前编号同时保存为 PNG、BMP、JPG 三种格式。
 
 ## GitHub Repository Name
@@ -76,7 +78,7 @@ photos/A00123.jpg
 
 电脑端需要安装：
 
-- Python 3+
+- Python 3
 - Flask
 - Pillow
 
