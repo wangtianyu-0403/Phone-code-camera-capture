@@ -304,9 +304,3 @@ v1.2.0
 ```text
 Tianyu Wang
 ```
-
-## License
-
-This project is released under the MIT License.
-
-你可以根据自己的需要修改、分发和二次开发本项目。
